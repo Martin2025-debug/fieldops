@@ -1,0 +1,16 @@
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\config\FeignClientConfig.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\controller\TecnicoController.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\dto\ApiResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\dto\TecnicoDetalleResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\dto\TecnicoRequest.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\dto\TecnicoResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\exception\ApiError.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\exception\GlobalExceptionHandler.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\exception\IntegrationException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\exception\ResourceNotFoundException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\model\Tecnico.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\model\TecnicoDetalle.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\repository\TecnicoDetalleRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\repository\TecnicoRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\service\TecnicoService.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tecnicos\src\main\java\com\fieldops\mstecnicos\TecnicoApplication.java

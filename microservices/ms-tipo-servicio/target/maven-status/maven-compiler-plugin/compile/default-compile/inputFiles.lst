@@ -1,0 +1,16 @@
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\config\FeignClientConfig.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\controller\TipoServicioController.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\dto\ApiResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\dto\TipoServicioDetalleResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\dto\TipoServicioRequest.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\dto\TipoServicioResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\exception\ApiError.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\exception\GlobalExceptionHandler.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\exception\IntegrationException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\exception\ResourceNotFoundException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\model\TipoServicio.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\model\TipoServicioDetalle.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\repository\TipoServicioDetalleRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\repository\TipoServicioRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\service\TipoServicioService.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-tipo-servicio\src\main\java\com\fieldops\mstiposervicio\TipoServicioApplication.java

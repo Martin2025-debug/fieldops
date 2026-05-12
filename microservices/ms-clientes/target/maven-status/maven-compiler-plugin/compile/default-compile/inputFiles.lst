@@ -1,0 +1,16 @@
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\ClienteApplication.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\config\FeignClientConfig.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\controller\ClienteController.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\dto\ApiResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\dto\ClienteDetalleResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\dto\ClienteRequest.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\dto\ClienteResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\exception\ApiError.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\exception\GlobalExceptionHandler.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\exception\IntegrationException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\exception\ResourceNotFoundException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\model\Cliente.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\model\ClienteDetalle.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\repository\ClienteDetalleRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\repository\ClienteRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-clientes\src\main\java\com\fieldops\msclientes\service\ClienteService.java

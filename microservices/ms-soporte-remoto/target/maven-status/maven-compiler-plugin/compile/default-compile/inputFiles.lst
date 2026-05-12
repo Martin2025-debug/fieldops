@@ -1,0 +1,17 @@
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\CasoSoporteApplication.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\config\FeignClientConfig.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\controller\CasoSoporteController.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\dto\ApiResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\dto\CasoSoporteDetalleResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\dto\CasoSoporteRequest.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\dto\CasoSoporteResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\exception\ApiError.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\exception\GlobalExceptionHandler.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\exception\IntegrationException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\exception\ResourceNotFoundException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\feign\SolicitudesClient.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\model\CasoSoporte.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\model\CasoSoporteDetalle.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\repository\CasoSoporteDetalleRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\repository\CasoSoporteRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-soporte-remoto\src\main\java\com\fieldops\mssoporteremoto\service\CasoSoporteService.java

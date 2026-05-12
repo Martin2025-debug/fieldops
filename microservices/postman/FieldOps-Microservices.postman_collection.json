@@ -1,0 +1,136 @@
+{
+  "info": {
+    "name": "FieldOps Microservices",
+    "_postman_id": "9b0f66a8-a451-4f7f-8e53-7c4f6b2ce884",
+    "description": "Pruebas minimas de integracion para los 10 microservicios FieldOps.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "ms-clientes",
+      "item": [
+        {
+          "name": "Crear cliente",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "http://localhost:8081/api/clientes",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Cliente Demo\",\n  \"descripcion\": \"Cliente para pruebas\",\n  \"estado\": \"ACTIVO\",\n  \"observaciones\": [\"Creado desde Postman\"]\n}"
+            }
+          }
+        },
+        {
+          "name": "Listar clientes",
+          "request": {
+            "method": "GET",
+            "url": "http://localhost:8081/api/clientes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ms-solicitudes",
+      "item": [
+        {
+          "name": "Crear solicitud",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "http://localhost:8083/api/solicitudes",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Solicitud Demo\",\n  \"descripcion\": \"Problema de conectividad\",\n  \"estado\": \"PENDIENTE\",\n  \"referenciaExternaId\": 1,\n  \"observaciones\": [\"Solicitud creada\"]\n}"
+            }
+          }
+        },
+        {
+          "name": "Listar solicitudes",
+          "request": {
+            "method": "GET",
+            "url": "http://localhost:8083/api/solicitudes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ms-programacion-visitas",
+      "item": [
+        {
+          "name": "Crear programacion",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "http://localhost:8086/api/programaciones-visita",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Visita Tecnica 1\",\n  \"descripcion\": \"Visita programada para cliente\",\n  \"estado\": \"AGENDADA\",\n  \"referenciaExternaId\": 1,\n  \"observaciones\": [\"Agendada por sistema\"]\n}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "ms-asignacion-servicio",
+      "item": [
+        {
+          "name": "Crear asignacion",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "http://localhost:8087/api/asignaciones-servicio",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Asignacion 1\",\n  \"descripcion\": \"Asignar tecnico a visita\",\n  \"estado\": \"ASIGNADA\",\n  \"referenciaExternaId\": 1,\n  \"observaciones\": [\"Tecnico asignado\"]\n}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "ms-tecnicos",
+      "item": [
+        { "name": "Listar tecnicos", "request": { "method": "GET", "url": "http://localhost:8082/api/tecnicos" } }
+      ]
+    },
+    {
+      "name": "ms-soporte-remoto",
+      "item": [
+        { "name": "Listar soporte remoto", "request": { "method": "GET", "url": "http://localhost:8084/api/soportes-remoto" } }
+      ]
+    },
+    {
+      "name": "ms-tipo-servicio",
+      "item": [
+        { "name": "Listar tipos servicio", "request": { "method": "GET", "url": "http://localhost:8085/api/tipos-servicio" } }
+      ]
+    },
+    {
+      "name": "ms-evidencias",
+      "item": [
+        { "name": "Listar evidencias", "request": { "method": "GET", "url": "http://localhost:8088/api/evidencias" } }
+      ]
+    },
+    {
+      "name": "ms-costos",
+      "item": [
+        { "name": "Listar costos", "request": { "method": "GET", "url": "http://localhost:8089/api/costos" } }
+      ]
+    },
+    {
+      "name": "ms-informes",
+      "item": [
+        { "name": "Listar informes", "request": { "method": "GET", "url": "http://localhost:8090/api/informes" } }
+      ]
+    }
+  ]
+}

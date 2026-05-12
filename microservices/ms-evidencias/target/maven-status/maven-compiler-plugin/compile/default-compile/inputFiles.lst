@@ -1,0 +1,17 @@
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\config\FeignClientConfig.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\controller\EvidenciaController.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\dto\ApiResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\dto\EvidenciaDetalleResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\dto\EvidenciaRequest.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\dto\EvidenciaResponse.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\EvidenciaApplication.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\exception\ApiError.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\exception\GlobalExceptionHandler.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\exception\IntegrationException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\exception\ResourceNotFoundException.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\feign\AsignacionesClient.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\model\Evidencia.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\model\EvidenciaDetalle.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\repository\EvidenciaDetalleRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\repository\EvidenciaRepository.java
+C:\Users\jader\OneDrive\Escritorio\Fieldops\microservices\ms-evidencias\src\main\java\com\fieldops\msevidencias\service\EvidenciaService.java
